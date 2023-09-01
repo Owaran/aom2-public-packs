@@ -365,13 +365,6 @@
             "md5": "bd4ff726291d98374fa6791c0589f288"
         },
         {
-            "folder": ".",
-            "package": "keysave..zip",
-            "filename": "keysave",
-            "hash": "123",
-            "md5": "f3bc344660d32d68d46d282af1df240b"
-        },
-        {
             "folder": "./lib",
             "package": "UserDict.pyc.zip",
             "filename": "UserDict.pyc",
