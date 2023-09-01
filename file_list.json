@@ -771,6 +771,13 @@
             "md5": "2c68d8bcbc57ed5f3aaf3572ec8f5b81"
         },
         {
+            "folder": ".",
+            "package": "metin2client.exe.zip",
+            "filename": "metin2client.exe",
+            "hash": "123",
+            "md5": "2b5ecaf33c5bc6f81dc60b5fd269eb3e"
+        },
+        {
             "folder": "./miles",
             "package": "mss32.dll.zip",
             "filename": "mss32.dll",
