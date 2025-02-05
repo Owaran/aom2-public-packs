@@ -296,24 +296,10 @@
         },
         {
             "folder": ".",
-            "package": "d3d8.dll.zip",
-            "filename": "d3d8.dll",
-            "hash": "123",
-            "md5": "bff21056131c0aff48624bf5606e699c"
-        },
-        {
-            "folder": ".",
             "package": "d3dcompiler_47.dll.zip",
             "filename": "d3dcompiler_47.dll",
             "hash": "123",
             "md5": "f76b1d2cd95385b21e61874761ddb53a"
-        },
-        {
-            "folder": ".",
-            "package": "d3dx9_43.dll.zip",
-            "filename": "d3dx9_43.dll",
-            "hash": "123",
-            "md5": "86e39e9161c3d930d93822f1563c280d"
         },
         {
             "folder": ".",
@@ -757,6 +743,13 @@
             "md5": "a31959d349b9c8cbd253ebe49ee07955"
         },
         {
+            "folder": ".",
+            "package": "locale_list.txt.zip",
+            "filename": "locale_list.txt",
+            "hash": "123",
+            "md5": "1ffece724c64e09bcc614975a4a04c0d"
+        },
+        {
             "folder": "./locales",
             "package": "en-US.pak.zip",
             "filename": "en-US.pak",
@@ -775,7 +768,7 @@
             "package": "metin2client.exe.zip",
             "filename": "metin2client.exe",
             "hash": "123",
-            "md5": "2b5ecaf33c5bc6f81dc60b5fd269eb3e"
+            "md5": "b7377e78ab5d6fbeaeda51cad381a1ae"
         },
         {
             "folder": "./miles",
@@ -901,7 +894,7 @@
             "package": "M00002.epk.zip",
             "filename": "M00002.epk",
             "hash": "123",
-            "md5": "ada594cb8643963211ecb97cdfcf692c"
+            "md5": "44d84ac6b371470a6e4a882db82622fe"
         },
         {
             "folder": "./pack",
@@ -915,7 +908,7 @@
             "package": "M00004.epk.zip",
             "filename": "M00004.epk",
             "hash": "123",
-            "md5": "f9e4fe8a098a48c2725c186ec7b05dae"
+            "md5": "c3430b7614ebf7708b6f25f82c67feac"
         },
         {
             "folder": "./pack",
@@ -936,21 +929,21 @@
             "package": "M00007.epk.zip",
             "filename": "M00007.epk",
             "hash": "123",
-            "md5": "9655985be9a264483d9dc385c5e51598"
+            "md5": "601199dfa8f3e528fa275b5343176c6d"
         },
         {
             "folder": "./pack",
             "package": "M00008.epk.zip",
             "filename": "M00008.epk",
             "hash": "123",
-            "md5": "8af1ac5a8ca7cb8ee38f7f30a78d58b6"
+            "md5": "1a78eeff7756647558104f3de11e6bcc"
         },
         {
             "folder": "./pack",
             "package": "M00009.epk.zip",
             "filename": "M00009.epk",
             "hash": "123",
-            "md5": "f30df65d68cf326b876e6ae185772787"
+            "md5": "41a3a797385aeeff5b40f14a910becf3"
         },
         {
             "folder": "./pack",
@@ -999,7 +992,7 @@
             "package": "M00016.epk.zip",
             "filename": "M00016.epk",
             "hash": "123",
-            "md5": "797b163bb54c1568ffd0adff80c36627"
+            "md5": "7e6682318a2db3815ea2ab72ca5c5731"
         },
         {
             "folder": "./pack",
@@ -1013,7 +1006,7 @@
             "package": "M00018.epk.zip",
             "filename": "M00018.epk",
             "hash": "123",
-            "md5": "cfebda4393efefeb8188a42133862e18"
+            "md5": "76705470413a369775968bd5332ccaa3"
         },
         {
             "folder": "./pack",
@@ -1048,14 +1041,14 @@
             "package": "M00023.epk.zip",
             "filename": "M00023.epk",
             "hash": "123",
-            "md5": "8a1e0dd3702fd9b555c8b5877ee8ab0e"
+            "md5": "e572131ef346e8258160a7d8c8819e5f"
         },
         {
             "folder": "./pack",
             "package": "M00024.epk.zip",
             "filename": "M00024.epk",
             "hash": "123",
-            "md5": "8589ce24cb67d9d01801c48b82eca0a4"
+            "md5": "5dd1030e99a7b2de9da2b7e376200e40"
         },
         {
             "folder": "./pack",
@@ -1160,7 +1153,7 @@
             "package": "M00039.epk.zip",
             "filename": "M00039.epk",
             "hash": "123",
-            "md5": "7eb553629522b0ac22155e49c3f5964b"
+            "md5": "aa5b342222293aaafec7142a01962097"
         },
         {
             "folder": "./pack",
@@ -1174,14 +1167,14 @@
             "package": "M00041.epk.zip",
             "filename": "M00041.epk",
             "hash": "123",
-            "md5": "80f8d0da6cb146b2c5ef1bae14dfed4f"
+            "md5": "fbafa1e99164f517745bc8cd9887bc84"
         },
         {
             "folder": "./pack",
             "package": "M00042.epk.zip",
             "filename": "M00042.epk",
             "hash": "123",
-            "md5": "a4903623117739a24013bd8bc9ec50b3"
+            "md5": "b0669f1de1326929206e0afdd126d207"
         },
         {
             "folder": "./pack",
@@ -1223,14 +1216,14 @@
             "package": "M00048.epk.zip",
             "filename": "M00048.epk",
             "hash": "123",
-            "md5": "374052c3def325aab7ea76fac19f52a9"
+            "md5": "1542ee12ace8e2dd609585d32597b241"
         },
         {
             "folder": "./pack",
             "package": "M00049.epk.zip",
             "filename": "M00049.epk",
             "hash": "123",
-            "md5": "7d4a64ec91aed313a27ec215947e4bac"
+            "md5": "e53d6f40c79dbce59b3146e5aa226fa6"
         },
         {
             "folder": "./pack",
@@ -1272,7 +1265,7 @@
             "package": "M00055.epk.zip",
             "filename": "M00055.epk",
             "hash": "123",
-            "md5": "5b1c9198ba71932432a7492fd35d4851"
+            "md5": "e551167a58af6f3e9ade225b10e5a4cc"
         },
         {
             "folder": "./pack",
@@ -1286,14 +1279,14 @@
             "package": "M00057.epk.zip",
             "filename": "M00057.epk",
             "hash": "123",
-            "md5": "559902b9936611f0a92c6f6e405a44c3"
+            "md5": "32f8a0812d876ef41c873443839c888f"
         },
         {
             "folder": "./pack",
             "package": "M00058.epk.zip",
             "filename": "M00058.epk",
             "hash": "123",
-            "md5": "21efe6469e22162fbe060ba6fed8ad99"
+            "md5": "7d7885dc6cef75d29b1e078fa71916ea"
         },
         {
             "folder": "./pack",
@@ -1307,14 +1300,14 @@
             "package": "M00060.epk.zip",
             "filename": "M00060.epk",
             "hash": "123",
-            "md5": "5db37fe6fbc5d0f3a4b937c59bf5e644"
+            "md5": "38aeb6ae3b974c6bf58ee4ec33c67aec"
         },
         {
             "folder": "./pack",
             "package": "M00061.epk.zip",
             "filename": "M00061.epk",
             "hash": "123",
-            "md5": "c3749d8fc1c3f188c4208559304e7745"
+            "md5": "53a3bfdd8953da927f983f674774213a"
         },
         {
             "folder": "./pack",
@@ -1384,14 +1377,14 @@
             "package": "M00071.epk.zip",
             "filename": "M00071.epk",
             "hash": "123",
-            "md5": "f43b6b41e5c7c35ab5189b0521cc8636"
+            "md5": "13c7034ffc262fb6b41c70cfb2b8d1a5"
         },
         {
             "folder": "./pack",
             "package": "M00072.epk.zip",
             "filename": "M00072.epk",
             "hash": "123",
-            "md5": "f8791f38d5f9bd2b26a8d06dfa0ebb04"
+            "md5": "459719bede258edbea94f66988f0d5ed"
         },
         {
             "folder": "./pack",
@@ -1461,7 +1454,7 @@
             "package": "M00082.epk.zip",
             "filename": "M00082.epk",
             "hash": "123",
-            "md5": "912718683e6b078116f10bcacf9e1898"
+            "md5": "e157251233e3e4a06afe656fc5f80b83"
         },
         {
             "folder": "./pack",
@@ -1475,21 +1468,21 @@
             "package": "M00084.epk.zip",
             "filename": "M00084.epk",
             "hash": "123",
-            "md5": "df5655a6a48fde103008c0244f459c12"
+            "md5": "4bf87713b38b44dcbec5fea1d05fd677"
         },
         {
             "folder": "./pack",
             "package": "M00085.epk.zip",
             "filename": "M00085.epk",
             "hash": "123",
-            "md5": "086f08ef037ed31132d86b6568ef7d9c"
+            "md5": "5bd52b4a5d3ba976fb41cb3c160fcf16"
         },
         {
             "folder": "./pack",
             "package": "M00086.epk.zip",
             "filename": "M00086.epk",
             "hash": "123",
-            "md5": "faadd5b58a0997f997786821a160ba9f"
+            "md5": "3ab0eba2ded05d77dd861fb187c7525e"
         },
         {
             "folder": "./pack",
@@ -1587,7 +1580,7 @@
             "package": "M00100.epk.zip",
             "filename": "M00100.epk",
             "hash": "123",
-            "md5": "2117c13d1f10ba67fcb39d93974a49fb"
+            "md5": "eb9a9f3bd99909129c9e260ee456b27e"
         },
         {
             "folder": "./pack",
@@ -1608,35 +1601,35 @@
             "package": "M00103.epk.zip",
             "filename": "M00103.epk",
             "hash": "123",
-            "md5": "25097ce7a7d7939b62b32f00b86413bd"
+            "md5": "d2fe08c5a21b835a83605429ee80438f"
         },
         {
             "folder": "./pack",
             "package": "M00104.epk.zip",
             "filename": "M00104.epk",
             "hash": "123",
-            "md5": "1075cb5239f3794a0aad15e23803ec6b"
+            "md5": "deb8c1dc9a24c752ff894ee1c95c9be3"
         },
         {
             "folder": "./pack",
             "package": "M00105.epk.zip",
             "filename": "M00105.epk",
             "hash": "123",
-            "md5": "9fca24169d83eb86703393ff3d7dd029"
+            "md5": "619fead177dcd3f5987f146a6ebbaffe"
         },
         {
             "folder": "./pack",
             "package": "M00106.epk.zip",
             "filename": "M00106.epk",
             "hash": "123",
-            "md5": "79a092ae833b6dfdf8c0af7b207cea93"
+            "md5": "542fee7c3912e933ffd0d6f747ce65e4"
         },
         {
             "folder": "./pack",
             "package": "M00107.epk.zip",
             "filename": "M00107.epk",
             "hash": "123",
-            "md5": "5d8ae4fbab69a1b6d49cde624c3f589a"
+            "md5": "bbdf729d267fbff39c6cb360b139f4c0"
         },
         {
             "folder": "./pack",
@@ -1657,42 +1650,42 @@
             "package": "M00110.epk.zip",
             "filename": "M00110.epk",
             "hash": "123",
-            "md5": "6d554e353eca3baec0fc4aa122aa18d3"
+            "md5": "a47f682d3b1dea3ce8d9170b6e52d0b4"
         },
         {
             "folder": "./pack",
             "package": "M00111.epk.zip",
             "filename": "M00111.epk",
             "hash": "123",
-            "md5": "f88ba210655682fdce760c8a9807f1f3"
+            "md5": "b9d38694d0cd44ac96b792f7a759c939"
         },
         {
             "folder": "./pack",
             "package": "M00112.epk.zip",
             "filename": "M00112.epk",
             "hash": "123",
-            "md5": "aa456689fc7b7f97690bb9da080c20e8"
+            "md5": "68fe663f9797cdf2bca83947cace2dc0"
         },
         {
             "folder": "./pack",
             "package": "M00113.epk.zip",
             "filename": "M00113.epk",
             "hash": "123",
-            "md5": "0bd910ded48c115a4facb5af44d4b66c"
+            "md5": "f32d8052f46b229fcd48a1aa97b317bb"
         },
         {
             "folder": "./pack",
             "package": "M00114.epk.zip",
             "filename": "M00114.epk",
             "hash": "123",
-            "md5": "de7644041959d492efc4e127219b99ee"
+            "md5": "1ca6b83a3489d0f5aa334f97c6e83288"
         },
         {
             "folder": "./pack",
             "package": "M00115.epk.zip",
             "filename": "M00115.epk",
             "hash": "123",
-            "md5": "5a85c0707d6dfdca38f7545ed7722001"
+            "md5": "3bf775b527c29a253a9ce074861465e4"
         },
         {
             "folder": "./pack",
@@ -1727,21 +1720,21 @@
             "package": "M00120.epk.zip",
             "filename": "M00120.epk",
             "hash": "123",
-            "md5": "4c5eb6f773d7e7603e2909e532c073a5"
+            "md5": "c2fd5929517a873b5fe8c9951ffc1cb5"
         },
         {
             "folder": "./pack",
             "package": "M00121.epk.zip",
             "filename": "M00121.epk",
             "hash": "123",
-            "md5": "dd0c2455b23deb847b9aceece39cefa7"
+            "md5": "f4c6ef205fc86627ac5ea9e808c0ff01"
         },
         {
             "folder": "./pack",
             "package": "M00122.epk.zip",
             "filename": "M00122.epk",
             "hash": "123",
-            "md5": "d28daa0dc8a51c097eca65a476b74c6a"
+            "md5": "2ac84455a9aedbda4dd26cbb14b99e8e"
         },
         {
             "folder": "./pack",
@@ -1811,14 +1804,14 @@
             "package": "M00132.epk.zip",
             "filename": "M00132.epk",
             "hash": "123",
-            "md5": "83b6de11ba737d069830fede177fa11e"
+            "md5": "3c9996d1c70f5c0889b22538c3aab3f1"
         },
         {
             "folder": "./pack",
             "package": "M00133.epk.zip",
             "filename": "M00133.epk",
             "hash": "123",
-            "md5": "2a946a92058663034c3f731d1301cadb"
+            "md5": "5dc7487d6ba0716f0e763c2333578e0a"
         },
         {
             "folder": "./pack",
@@ -1867,7 +1860,7 @@
             "package": "M00141.epk.zip",
             "filename": "M00141.epk",
             "hash": "123",
-            "md5": "2155e5266559c9b39913af21bf5c8174"
+            "md5": "17d6605f70c38b9cf8ed60d2af07ebf4"
         },
         {
             "folder": "./pack",
@@ -1881,7 +1874,7 @@
             "package": "M00143.epk.zip",
             "filename": "M00143.epk",
             "hash": "123",
-            "md5": "a022de5dd3ef65d632cae1400fe8e61d"
+            "md5": "8749135a3d035f12bf8bef883b53b09b"
         },
         {
             "folder": "./pack",
@@ -1902,7 +1895,7 @@
             "package": "M00146.epk.zip",
             "filename": "M00146.epk",
             "hash": "123",
-            "md5": "78d505ffc11efeabd219173ced2fdd25"
+            "md5": "1f7d606582fb75120eafef728ccd54d2"
         },
         {
             "folder": "./pack",
@@ -1986,14 +1979,14 @@
             "package": "M00158.epk.zip",
             "filename": "M00158.epk",
             "hash": "123",
-            "md5": "f7a26b3e8d34a051a062af7967b05e7b"
+            "md5": "12d3e5b85ccb3f98cab12f9d5fac15ee"
         },
         {
             "folder": "./pack",
             "package": "M00159.epk.zip",
             "filename": "M00159.epk",
             "hash": "123",
-            "md5": "49e60ba8c32d20f6f1bef897fe2b153f"
+            "md5": "7c0cc82ab7f74a4e1d2994012af1827d"
         },
         {
             "folder": "./pack",
@@ -2014,28 +2007,28 @@
             "package": "M00162.epk.zip",
             "filename": "M00162.epk",
             "hash": "123",
-            "md5": "5cf22b6cb634e1ddf7aebb32f8ba200d"
+            "md5": "98beb0ea1ebd8e3c9759b517d04b77be"
         },
         {
             "folder": "./pack",
             "package": "M00163.epk.zip",
             "filename": "M00163.epk",
             "hash": "123",
-            "md5": "4d88a193786d50165049e35ed760a009"
+            "md5": "e8eaa2202fc0b9aff44f804e6488844a"
         },
         {
             "folder": "./pack",
             "package": "M00164.epk.zip",
             "filename": "M00164.epk",
             "hash": "123",
-            "md5": "1e12c610a34257164fe590a426e4f1bc"
+            "md5": "c5074c00681a53a1f62384a4384a5818"
         },
         {
             "folder": "./pack",
             "package": "M00165.epk.zip",
             "filename": "M00165.epk",
             "hash": "123",
-            "md5": "b3a013a41a3e2ce16633e2d8528e3772"
+            "md5": "e07fd3092bcfc3eb52d767609e8aa646"
         },
         {
             "folder": "./pack",
@@ -2063,14 +2056,14 @@
             "package": "M00169.epk.zip",
             "filename": "M00169.epk",
             "hash": "123",
-            "md5": "8ddb5379b51bdedb0c92af5325cd6881"
+            "md5": "e5fab0eea38345a43c9292dbe9292f4d"
         },
         {
             "folder": "./pack",
             "package": "M00170.epk.zip",
             "filename": "M00170.epk",
             "hash": "123",
-            "md5": "bbede11ff7c32a66cea07375747b1d94"
+            "md5": "040fdd1ff49671c213a893c09332cfa6"
         },
         {
             "folder": "./pack",
@@ -2091,7 +2084,7 @@
             "package": "M00173.epk.zip",
             "filename": "M00173.epk",
             "hash": "123",
-            "md5": "4f9746fada516b849c295f4ab2f8e06f"
+            "md5": "4e08dbdb38b4470c53d48e651b4883fd"
         },
         {
             "folder": "./pack",
@@ -2112,7 +2105,7 @@
             "package": "M00176.epk.zip",
             "filename": "M00176.epk",
             "hash": "123",
-            "md5": "fc8193eaca24b80742924f479762a670"
+            "md5": "25bfd348d06c9e29828d9ef83a357c6f"
         },
         {
             "folder": "./pack",
@@ -2140,21 +2133,21 @@
             "package": "M00180.epk.zip",
             "filename": "M00180.epk",
             "hash": "123",
-            "md5": "3081b2df97c6ed19ea2ae00f271c7201"
+            "md5": "1fa1936af9dab71d0650336e18fe8eb8"
         },
         {
             "folder": "./pack",
             "package": "M00181.epk.zip",
             "filename": "M00181.epk",
             "hash": "123",
-            "md5": "80ac6572f7c9788fb114c32f6ad49cbb"
+            "md5": "bd7b49f1b03dc120712ed46b7681fc74"
         },
         {
             "folder": "./pack",
             "package": "M00182.epk.zip",
             "filename": "M00182.epk",
             "hash": "123",
-            "md5": "feb10dee9daeb9dfbb1eb6bdecc3692d"
+            "md5": "5616a9ef885a0b974b4bf7febf5345c7"
         },
         {
             "folder": "./pack",
@@ -2189,7 +2182,7 @@
             "package": "M00187.epk.zip",
             "filename": "M00187.epk",
             "hash": "123",
-            "md5": "c4888396be399d5cf2e90417ecbbc3bd"
+            "md5": "6a9e194605f182b24d4957f19c34932a"
         },
         {
             "folder": "./pack",
@@ -2203,35 +2196,35 @@
             "package": "M00189.epk.zip",
             "filename": "M00189.epk",
             "hash": "123",
-            "md5": "8261d46aad217b79e9e14804e674155c"
+            "md5": "64adad18526d21d92632612eb7a82b63"
         },
         {
             "folder": "./pack",
             "package": "M00190.epk.zip",
             "filename": "M00190.epk",
             "hash": "123",
-            "md5": "fb40b54bc09308b66517f8f4d97fc790"
+            "md5": "56bae2ec46ca5c4560ef766e9421c533"
         },
         {
             "folder": "./pack",
             "package": "M00191.epk.zip",
             "filename": "M00191.epk",
             "hash": "123",
-            "md5": "7dfb3858ef787e97cf01d1b6d8a4b2b6"
+            "md5": "87a72e34fd63caf8a2f2a16bc2dbd160"
         },
         {
             "folder": "./pack",
             "package": "M00192.epk.zip",
             "filename": "M00192.epk",
             "hash": "123",
-            "md5": "5aff9709251ede02ddd39dcffc5bc5ef"
+            "md5": "0f2414675add1d77096986c66be05621"
         },
         {
             "folder": "./pack",
             "package": "M00193.epk.zip",
             "filename": "M00193.epk",
             "hash": "123",
-            "md5": "13c46a48c6f5d710707f3e132cb4f89e"
+            "md5": "ade82d13e179727b18da97c25827ec78"
         },
         {
             "folder": "./pack",
@@ -2245,7 +2238,7 @@
             "package": "M00195.epk.zip",
             "filename": "M00195.epk",
             "hash": "123",
-            "md5": "445c728a1b3ff9e10d50bd8389dad8d5"
+            "md5": "f03b4aff21c51c10da17be719318e2db"
         },
         {
             "folder": "./pack",
@@ -2259,14 +2252,14 @@
             "package": "M00197.epk.zip",
             "filename": "M00197.epk",
             "hash": "123",
-            "md5": "b4fd77a32f0a1bdf78674cc7eed0c102"
+            "md5": "38c2627e32933efc83704178b2640012"
         },
         {
             "folder": "./pack",
             "package": "M00198.epk.zip",
             "filename": "M00198.epk",
             "hash": "123",
-            "md5": "023c031153c6829740c59175e3156043"
+            "md5": "1aa17eec31129093ec2a448015a20350"
         },
         {
             "folder": "./pack",
@@ -2280,14 +2273,14 @@
             "package": "M00200.epk.zip",
             "filename": "M00200.epk",
             "hash": "123",
-            "md5": "6891f6d55fca3625b88efc3caf079839"
+            "md5": "9df4633c79a8d991b3115764238db9bc"
         },
         {
             "folder": "./pack",
             "package": "M00201.epk.zip",
             "filename": "M00201.epk",
             "hash": "123",
-            "md5": "70b0abd9715d909a9f2da30ecdafb633"
+            "md5": "d6a867e1fc947d2ec7de0445f666ccca"
         },
         {
             "folder": "./pack",
@@ -2315,14 +2308,14 @@
             "package": "M00207.epk.zip",
             "filename": "M00207.epk",
             "hash": "123",
-            "md5": "dc07887c4c85853e082ffbb291a1d2c5"
+            "md5": "300f998cb5e6a42da100cfc0166b8818"
         },
         {
             "folder": "./pack",
             "package": "M00208.epk.zip",
             "filename": "M00208.epk",
             "hash": "123",
-            "md5": "9faf1b29ee0266d3a06fd05e0556c232"
+            "md5": "accd0492aeb8c6b6aacbc4bccf12caae"
         },
         {
             "folder": "./pack",
@@ -2336,28 +2329,28 @@
             "package": "M10000.epk.zip",
             "filename": "M10000.epk",
             "hash": "123",
-            "md5": "0640130f5b96700ec4d28bc755455763"
+            "md5": "31e04996df074337097ecc0b649ecf03"
         },
         {
             "folder": "./pack",
             "package": "NYX00001.epk.zip",
             "filename": "NYX00001.epk",
             "hash": "123",
-            "md5": "6183d5e34f9cfbf63a7dbba6e11cd10c"
+            "md5": "793b7c7764b91f6bb318c71558753ecf"
         },
         {
             "folder": "./pack",
             "package": "NYX00002.epk.zip",
             "filename": "NYX00002.epk",
             "hash": "123",
-            "md5": "987750a009625b166f0f7801148592e0"
+            "md5": "782d5c2bd29dd4c1d2d19db676ce42a2"
         },
         {
             "folder": "./pack",
             "package": "NYX00003.epk.zip",
             "filename": "NYX00003.epk",
             "hash": "123",
-            "md5": "6a8d9b028aae931e766a782345f0d39b"
+            "md5": "401ff420d822b45e93a7a2fb2cadeaf9"
         },
         {
             "folder": "./pack",
@@ -2371,7 +2364,7 @@
             "package": "NYX00005.epk.zip",
             "filename": "NYX00005.epk",
             "hash": "123",
-            "md5": "4ece692182dc590a61cb04885c2de44a"
+            "md5": "fc0af3c6a8afbe5356360472f13401a1"
         },
         {
             "folder": "./pack",
@@ -2413,7 +2406,7 @@
             "package": "NYX00011.epk.zip",
             "filename": "NYX00011.epk",
             "hash": "123",
-            "md5": "9d6c67214b616275e91c939060d309b2"
+            "md5": "999fa374d3e74368b79430b16f968816"
         },
         {
             "folder": "./pack",
@@ -2469,7 +2462,7 @@
             "package": "NYX00019.epk.zip",
             "filename": "NYX00019.epk",
             "hash": "123",
-            "md5": "1de4e79d66fb99e1818cf2d36c7bd0d4"
+            "md5": "d2929200b44aeb026d07451c9773b69f"
         },
         {
             "folder": "./pack",
@@ -2546,7 +2539,7 @@
             "package": "NYX00030.epk.zip",
             "filename": "NYX00030.epk",
             "hash": "123",
-            "md5": "b10d689e2dea3c0e7848554242cbc278"
+            "md5": "fd5d51c50635a7c7eadc038aa3ba0ba5"
         },
         {
             "folder": "./pack",
@@ -2560,7 +2553,7 @@
             "package": "NYX00032.epk.zip",
             "filename": "NYX00032.epk",
             "hash": "123",
-            "md5": "1acfc128f33ce8f745c237f7dca2ee74"
+            "md5": "e5b384eb2628427b54ad9d8b42fa06a3"
         },
         {
             "folder": "./pack",
@@ -2644,7 +2637,7 @@
             "package": "NYX00044.epk.zip",
             "filename": "NYX00044.epk",
             "hash": "123",
-            "md5": "9370ca2f210cabc37ec426b69d26329e"
+            "md5": "76758ebf969afe93436aaea4a3c3aeb8"
         },
         {
             "folder": "./pack",
@@ -2665,7 +2658,7 @@
             "package": "NYX00047.epk.zip",
             "filename": "NYX00047.epk",
             "hash": "123",
-            "md5": "5d42cbf98c3f0be63dd8a62881d192c9"
+            "md5": "12fed6e13829e0e34600056b0f2bc04d"
         },
         {
             "folder": "./pack",
@@ -2679,14 +2672,14 @@
             "package": "NYX00049.epk.zip",
             "filename": "NYX00049.epk",
             "hash": "123",
-            "md5": "95a306bb1c9f555c1f62aa257278379d"
+            "md5": "a5c8a8b980e4c245359f18519193089b"
         },
         {
             "folder": "./pack",
             "package": "NYX00050.epk.zip",
             "filename": "NYX00050.epk",
             "hash": "123",
-            "md5": "252dc34bbafae41deabd917907d76422"
+            "md5": "914d34f56dd0735507b150f8d3effd71"
         },
         {
             "folder": "./pack",
@@ -2707,7 +2700,7 @@
             "package": "NYX00053.epk.zip",
             "filename": "NYX00053.epk",
             "hash": "123",
-            "md5": "11c6b68689ac0462829650cfdbae9058"
+            "md5": "419b1290805f6e3537d14026245e9dae"
         },
         {
             "folder": "./pack",
@@ -2735,7 +2728,7 @@
             "package": "NYX00057.epk.zip",
             "filename": "NYX00057.epk",
             "hash": "123",
-            "md5": "87dfa4bdc2c3a1fc0f248d3f113bd0fe"
+            "md5": "1c64df7a04ef782c960d7457143e7a76"
         },
         {
             "folder": "./pack",
@@ -2746,38 +2739,87 @@
         },
         {
             "folder": "./pack",
+            "package": "NYX00059.epk.zip",
+            "filename": "NYX00059.epk",
+            "hash": "123",
+            "md5": "66e2a163a20853533289d5b832980e58"
+        },
+        {
+            "folder": "./pack",
+            "package": "NYX00060.epk.zip",
+            "filename": "NYX00060.epk",
+            "hash": "123",
+            "md5": "f0904294a727bb0d8825b5605f51481b"
+        },
+        {
+            "folder": "./pack",
+            "package": "NYX00061.epk.zip",
+            "filename": "NYX00061.epk",
+            "hash": "123",
+            "md5": "7b26b141405c28ebe30a996c20f2a984"
+        },
+        {
+            "folder": "./pack",
+            "package": "NYX00062.epk.zip",
+            "filename": "NYX00062.epk",
+            "hash": "123",
+            "md5": "3f8ef00cba2fcc5fc0405d4b770ceb6d"
+        },
+        {
+            "folder": "./pack",
+            "package": "NYX00063.epk.zip",
+            "filename": "NYX00063.epk",
+            "hash": "123",
+            "md5": "7cd90155767fbbd08d452903cf6917d8"
+        },
+        {
+            "folder": "./pack",
+            "package": "NYX00064.epk.zip",
+            "filename": "NYX00064.epk",
+            "hash": "123",
+            "md5": "574b0aa911e12e4d9059f78c6a157fb0"
+        },
+        {
+            "folder": "./pack",
+            "package": "NYX00065.epk.zip",
+            "filename": "NYX00065.epk",
+            "hash": "123",
+            "md5": "b8f16ef59229831bb3d2cd9abee2812b"
+        },
+        {
+            "folder": "./pack",
             "package": "Property.epk.zip",
             "filename": "Property.epk",
             "hash": "123",
-            "md5": "e47e237ea01c8a3d294c33d6f7ed38c4"
+            "md5": "24aebc630e6de0bbe248cc222b3ce644"
         },
         {
             "folder": "./pack",
             "package": "locale_br.epk.zip",
             "filename": "locale_br.epk",
             "hash": "123",
-            "md5": "e87fce6130c62e8d64a1a14bf15de909"
+            "md5": "f68d6b6537110cced8d8ef7c6b7820cd"
         },
         {
             "folder": "./pack",
             "package": "locale_br_string.epk.zip",
             "filename": "locale_br_string.epk",
             "hash": "123",
-            "md5": "e914423cec3e83acc86d70bd34ddfbd3"
+            "md5": "0cd44f23ff04a9cf4a7c5418ab9f21cf"
         },
         {
             "folder": "./pack",
             "package": "root.epk.zip",
             "filename": "root.epk",
             "hash": "123",
-            "md5": "393099d2c3b5d8b4a56adc29f682f42f"
+            "md5": "50099f537af559a13e760e1bd4b820e0"
         },
         {
             "folder": "./pack",
             "package": "uiscript.epk.zip",
             "filename": "uiscript.epk",
             "hash": "123",
-            "md5": "22393dc56908c3d01e7c01a4b4ecc9ed"
+            "md5": "8d2e90218b34dd3929a95207908e0752"
         },
         {
             "folder": ".",
