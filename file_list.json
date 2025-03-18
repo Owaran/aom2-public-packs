@@ -768,7 +768,7 @@
             "package": "metin2client.exe.zip",
             "filename": "metin2client.exe",
             "hash": "123",
-            "md5": "4bca8fcb1977e12bec22f5d655072522"
+            "md5": "6be44a2a01761da9d2fef847e5a2cb5c"
         },
         {
             "folder": "./miles",
@@ -2812,7 +2812,7 @@
             "package": "root.epk.zip",
             "filename": "root.epk",
             "hash": "123",
-            "md5": "60b8e1232625945b459a08bfeb46c531"
+            "md5": "7049685c37887e737ae46d8f087f4032"
         },
         {
             "folder": "./pack",
