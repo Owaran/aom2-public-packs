@@ -768,7 +768,7 @@
             "package": "metin2client.exe.zip",
             "filename": "metin2client.exe",
             "hash": "123",
-            "md5": "e8b8f22512d7217d8283b32c470cf576"
+            "md5": "f8c22b97bf52fcb4b5ae405270a9d8c4"
         },
         {
             "folder": "./miles",
@@ -2798,21 +2798,21 @@
             "package": "locale_br.epk.zip",
             "filename": "locale_br.epk",
             "hash": "123",
-            "md5": "5bb35373baa8c2ae909dda97014ccd69"
+            "md5": "453be4dbe5b262f92947820817bc5f33"
         },
         {
             "folder": "./pack",
             "package": "locale_br_string.epk.zip",
             "filename": "locale_br_string.epk",
             "hash": "123",
-            "md5": "0331219ce3bf690abc28e7c5ab5010ae"
+            "md5": "ac04bb8d5ff4f0d3b2a227dcea88d3ff"
         },
         {
             "folder": "./pack",
             "package": "root.epk.zip",
             "filename": "root.epk",
             "hash": "123",
-            "md5": "418fb5bfa444bfe8e90162b31c4cf654"
+            "md5": "1dea1540c8600ee2fa66e542bff40177"
         },
         {
             "folder": "./pack",
