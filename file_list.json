@@ -782,7 +782,7 @@
             "package": "metin2client.exe.zip",
             "filename": "metin2client.exe",
             "hash": "123",
-            "md5": "f8c22b97bf52fcb4b5ae405270a9d8c4"
+            "md5": "04709237ff9308e3f24b4925cc362255"
         },
         {
             "folder": "./miles",
@@ -2364,14 +2364,14 @@
             "package": "NYX00001.epk.zip",
             "filename": "NYX00001.epk",
             "hash": "123",
-            "md5": "0081a44c2065a4ec11932934ae4feccd"
+            "md5": "b86d9bb809d822af0eeb2107b41978ba"
         },
         {
             "folder": "./pack",
             "package": "NYX00002.epk.zip",
             "filename": "NYX00002.epk",
             "hash": "123",
-            "md5": "2945b93747711863f6a6264a05e1f750"
+            "md5": "4acd1c03732c3224f29c85561145c897"
         },
         {
             "folder": "./pack",
@@ -2427,7 +2427,7 @@
             "package": "NYX00010.epk.zip",
             "filename": "NYX00010.epk",
             "hash": "123",
-            "md5": "e7fb6ad73c9f2ab39bdbcb62f772ae62"
+            "md5": "39ab6aa0e568b26ea348ae4ab231fb41"
         },
         {
             "folder": "./pack",
@@ -2707,7 +2707,7 @@
             "package": "NYX00050.epk.zip",
             "filename": "NYX00050.epk",
             "hash": "123",
-            "md5": "676b601d9db068c6eaf7fcbee4585229"
+            "md5": "08f8524775cf8544e3755f0312334828"
         },
         {
             "folder": "./pack",
@@ -2837,6 +2837,13 @@
         },
         {
             "folder": "./pack",
+            "package": "NYX00069.epk.zip",
+            "filename": "NYX00069.epk",
+            "hash": "123",
+            "md5": "b9d7a35fb35ae0629c1bedc3be2ad213"
+        },
+        {
+            "folder": "./pack",
             "package": "Property.epk.zip",
             "filename": "Property.epk",
             "hash": "123",
@@ -2854,21 +2861,21 @@
             "package": "locale_br.epk.zip",
             "filename": "locale_br.epk",
             "hash": "123",
-            "md5": "4a8fae3de3b6bae3ea49c7102cf6a588"
+            "md5": "8b0799bc1bbfde2dacecea69ee8bd381"
         },
         {
             "folder": "./pack",
             "package": "locale_br_string.epk.zip",
             "filename": "locale_br_string.epk",
             "hash": "123",
-            "md5": "95ab91832b2fc60625d94c1b0965f828"
+            "md5": "791ad876b9fd4b2921f46131d99219ab"
         },
         {
             "folder": "./pack",
             "package": "root.epk.zip",
             "filename": "root.epk",
             "hash": "123",
-            "md5": "1dea1540c8600ee2fa66e542bff40177"
+            "md5": "e50490fd99fda5774fdc7bf99c2063b0"
         },
         {
             "folder": "./pack",
